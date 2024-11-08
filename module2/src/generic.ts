@@ -10,4 +10,7 @@ const user:GenericArray<{name:string; age:number}>=[
         age:25
     }
 ]
+
+
+
 }
