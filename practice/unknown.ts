@@ -13,7 +13,10 @@
             console.log('Wrong Input')
         }
     }
-    const result = getSpeed('90 km/h')
-    console.log(result)
+    // const result = getSpeed('90 km/h')
+    // console.log(result)
+    getSpeed(90)
+    getSpeed('90 km/h')
+    getSpeed(null)
     // 
 }
